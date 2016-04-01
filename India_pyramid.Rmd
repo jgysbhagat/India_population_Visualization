@@ -20,7 +20,7 @@ library(ggplot2)
 library(dplyr)
 library(ggthemes)
 # require("installr")
-idb_api_key("368999ed1ada8e93c74f5b62be5b2891dfbb9f0b")
+idb_api_key("xxxxxxxxxxxxxxxxxxxxxxxxxx")
 ```
 This code and image is inspired by http://blog.revolutionanalytics.com/2016/02/japans-ageing-population-animated-with-r.html
 
@@ -70,7 +70,7 @@ saveGIF({
 },movie.name='india_pyramid.gif',interval=0.2,ani.width=700,ani.height=600)
 ```
 
-!["IMAGE"](/Users/jigyasabhagat/Desktop/Kaggle homedepot/india_pyramid.gif)
+
 
 
 # Sex ratio visualization for years 2000 to 2050
@@ -94,4 +94,4 @@ saveGIF({
 }
 },movie.name='india_male_female_ratio.gif',interval=0.2,ani.width=700,ani.height=600)
 ```
-!["IMAGE"](/Users/jigyasabhagat/Desktop/Kaggle homedepot/india_male_female_ratio.gif)
+
