@@ -7,4 +7,4 @@ http://www.census.gov/data/developers/data-sets/international-database.htmlhttp:
 http://blog.revolutionanalytics.com/2016/02/japans-ageing-population-animated-with-r.html
 
 * For HTML preview please go to:
-
+https://rawgit.com/jgysbhagat/India_population_Visualization/master/India_pyramid.html
