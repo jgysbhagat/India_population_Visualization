@@ -13,7 +13,6 @@ output:
 # devtools::install_github('walkerke/idbr')
 # install.ImageMagick(URL = "http://www.imagemagick.org/script/binary-releases.php")
 # install.packages("animation",dep=T)
-setwd("/Users/jigyasabhagat/Desktop/Kaggle homedepot")
 library(animation)
 library(idbr)
 library(ggplot2)
